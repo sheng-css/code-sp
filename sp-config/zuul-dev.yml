@@ -39,5 +39,3 @@ management:
       exposure:
         include: hystrix.stream
         
-zuul:
-  sensitive-headers:
