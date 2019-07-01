@@ -8,7 +8,7 @@ spring:
       profile: dev
     inetutils: 
       ignored-interfaces:      - VM.*
-      preferred-networks:      - 176.129.8
+      preferred-networks:       - 176.129.8
     
       
 eureka:
