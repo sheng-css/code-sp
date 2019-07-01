@@ -10,7 +10,7 @@ spring:
       ignored-interfaces:
       - VM.*
       preferred-networks:
-      - 176.129.0
+      - 176.129.8
       
 eureka:
   client:
