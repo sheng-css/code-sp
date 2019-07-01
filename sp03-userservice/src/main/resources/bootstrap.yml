@@ -9,6 +9,8 @@ spring:
     inetutils: 
       ignored-interfaces:
       - VM.*
+      preferred-networks:
+      - 176.129.0
       
 eureka:
   client:
